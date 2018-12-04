@@ -9,6 +9,7 @@
 title: tatmush
 email: tatalmondmush@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+	Site under construction!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tatalmondmush.me" # the base hostname & protocol for your site
