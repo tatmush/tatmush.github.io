@@ -11,9 +11,10 @@
 	/* position: fixed; */
     top: 0;
     width: 100%;
+    display: inline;
 }
 
-header > ol > li {
+header > div > ol > li {
 	display: inline;
 	float: right;
 	border-right: 1px solid #bbb;
