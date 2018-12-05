@@ -11,13 +11,16 @@
 	/* position: fixed; */
     top: 0;
     width: 100%;
-
 }
 
 header > ol > li {
 	display: inline;
 	float: right;
 	border-right: 1px solid #bbb;
+}
+
+.siteTitle{
+	float: left;
 }
 
 li a {

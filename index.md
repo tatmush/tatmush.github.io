@@ -44,6 +44,10 @@ layout: default
 		</ul>
 	</p>
 </div>
+<div id="whatsHappening">
+	<h1>What's Happening</h1>
+	
+</div>
 <div id="twitter">
 	<h1>Twitter</h1>
 </div>
