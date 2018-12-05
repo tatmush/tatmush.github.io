@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.navBar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	/* position: fixed; */
+    top: 0;
+    width: 100%;
+
+}
+
+header > ol > li {
+	display: inline;
+	float: right;
+	border-right: 1px solid #bbb;
+}
+
+li a {
+	display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+.active {
+	background-color: #4CAF50;
+}
+
+.homeParagraph{
+	text-align: justify;
+	line-height: 1.8;
+}
