@@ -8,12 +8,17 @@
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	/* position: fixed; */
     top: 0;
     width: 100%;
     display: inline;
 }
-
+/*
+header > div > ol {
+	position: sticky;
+	top: 0;
+	padding: 1%
+}
+*/
 header > div > ol > li {
 	display: inline;
 	float: right;
@@ -22,6 +27,16 @@ header > div > ol > li {
 
 .siteTitle{
 	
+}
+
+.firstImage{
+	float: left;
+	margin-left: 15px;
+}
+
+.feliMemorial{
+	text-align: justify;
+	line-height: 1.8;
 }
 
 li a {
