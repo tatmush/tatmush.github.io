@@ -11,7 +11,7 @@ layout: default
 	<p class="homeParagraph">
 		Welcome ...<br>
 		You will get know more about me here ...<br>
-		I've done just about everything. And I love new experiences. I'm interested in technology and it solving problems. Because of that I've done just about everything.<br>
+		I've done just about everything. And I love new experiences. I'm interested in technology and it solving problems. Because of that, I've done just about everything.<br>
 		<br>I'm a Jesus freak in the mildest of terms! I love people. I love what I do.<br>		
 		<br>Feel free to contact me for projects, ministry, hangouts...
 		<br>
@@ -21,7 +21,7 @@ layout: default
 	<h1>About</h1>
 	<div>
 		<p>
-			I'm 23. I'm a Mushayakarara. Click <a href="/origin.html" target="_blank">Origin</a> to find out were I am from.
+			I'm 23. I'm a Mushayakarara. Click <a href="origin/origin.html" target="_blank">Origin</a> to find out were I am from.
 		</p>
 	</div>
 </div>
@@ -56,7 +56,7 @@ layout: default
 	<p>
 		<ul>
 			<li><a href="#">Violent Python 3</a></li>
-			<li><a href="#">approvedProspectors.co.zw</a></li>
+			<li><a href="#">approvedprospectors.co.zw</a></li>
 		</ul>
 	</p>
 </div>
