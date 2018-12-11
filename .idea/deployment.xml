@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="odoo test server">
+    <serverData>
+      <paths name="odoo test server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/odoo/odoo-qualityTyre" local="$PROJECT_DIR$/../../../telco/odoo-qualityTyre" web=":8069/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
