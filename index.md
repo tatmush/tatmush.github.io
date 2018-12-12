@@ -19,7 +19,7 @@ layout: default
 	<h1>About</h1>
 	<div>
 		<p>
-			Click <a href="#">Origins</a> to find out were I am from.
+			Click <a href="/origin.html" target="_blank">Origin</a> to find out were I am from.
 		</p>
 	</div>
 </div>

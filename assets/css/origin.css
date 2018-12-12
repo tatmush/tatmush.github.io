@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
 }
-/*added*/
 
 .tree {
   white-space: nowrap;
@@ -12,7 +11,7 @@
   
 }
 
-.tree ul {
+.tree div ul {
   padding-top: 20px;
   position: relative;
   transition: all 0.5s;
@@ -89,7 +88,7 @@ right connector from last child*/
 }
 /*Time to add downward connectors from parents*/
 
-.tree ul ul::before {
+.tree div ul div ul::before {
   content: '';
   position: absolute;
   top: 0;
@@ -105,7 +104,8 @@ right connector from last child*/
   text-decoration: none;
   color: #666;
   font-family: arial, verdana, tahoma;
-  font-size: 11px;
+  font-size: 14px;
+  font-weight: bold;
   display: inline-block;
   border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -118,17 +118,17 @@ right connector from last child*/
 /*We will apply the hover effect the the lineage of the element also*/
 
 .tree li a:hover,
-.tree li a:hover+ul li a {
+.tree li a:hover+div ul li a {
   background: #c8e4f8;
   color: #000;
   border: 1px solid #94a0b4;
 }
 /*Connector styles on hover*/
 
-.tree li a:hover+ul li::after,
-.tree li a:hover+ul li::before,
-.tree li a:hover+ul::before,
-.tree li a:hover+ul ul::before {
+.tree li a:hover+div ul li::after,
+.tree li a:hover+div ul li::before,
+.tree li a:hover+div ul::before,
+.tree li a:hover+div ul div ul::before {
   border-color: #94a0b4;
 }
 
@@ -177,10 +177,8 @@ Thanks :)*//* Tooltip container */
 .tooltipNyabasa:hover .tooltiptextNyabasa {
   visibility: visible;
 }
-/*
-.inner{
-	/*max-width: 10000px;
-	padding-top: 20px;
+
+.header{
 	padding-bottom: 20px;
+  text-decoration: underline;
 }
-*/
