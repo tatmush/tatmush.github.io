@@ -65,7 +65,7 @@ layout: default
 	<div style="position: relative; height: 312px;">
 		<img src="pictures/feli4.jpeg" alt="Feli" class="firstImage">
 		<p class="feliMemorial">
-			<h6>😭😭28 November 2018😭😭.</h6>Sad, sad day.😓 <br>The life we live is only finite. Love the people you must, tell them you love them. Cherish them...Because you never know if you or they are there tommorrow to tell them. Our Memorial is <a href="/memorial.html">here.</a>
+			<h6>😭😭28 November 2018😭😭.</h6>Sad, sad day.😓 <br>The life we live is only finite. Love the people you must, tell them you love them. Cherish them...Because you never know if you or they are there tommorrow to tell them. Our Memorial is <a href="/#">here.</a>
 		</p>
 	</div>	
 </div>
