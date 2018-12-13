@@ -9,40 +9,56 @@
 	padding: 0;
 	overflow: hidden;
     top: 0;
-    width: 100%;
-    display: inline;
+    padding: 10px;
+    background-color: #dddddd;
 }
-/*
-header > div > ol {
+
+.orderedList {
 	position: sticky;
 	top: 0;
 	padding: 1%
 }
-*/
+
+.description {
+	background-color: #dddddd;
+	line-height: 2.0;
+}
+li:last-child {
+  border-right: none;
+}
+
 header > div > ol > li {
 	display: inline;
-	float: right;
+	float: left;
 	border-right: 1px solid #bbb;
 }
 
-.siteTitle{
-	
+.memorialImage{
+	border-radius: 50%;
+}
+.mainImage{
+	border-radius: 10%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
 }
 
 .firstImage{
 	float: left;
 	margin-left: 15px;
+	border-radius: 50%;
 }
 
 .feliMemorial{
 	text-align: justify;
-	line-height: 1.8;
+	line-height: 2.0;
+	padding-top: 50px;
+	padding-left: 5px;
 }
 
-li a {
-	display: block;
-    padding: 8px;
-    background-color: #dddddd;
+.navBar a {
+	padding: 20px;
 }
 
 .active {
@@ -53,4 +69,3 @@ li a {
 	text-align: justify;
 	line-height: 1.8;
 }
-
