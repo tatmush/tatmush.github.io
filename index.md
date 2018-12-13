@@ -9,9 +9,11 @@ layout: default
 	<h1>Home</h1>
 	<h6>This site is under construction!<br></h6> 
 	<p class="homeParagraph">
-		... what someone is, is more than words. It's more than what we have done. It's more than what we have achieved. It's more than what others think we have achieved. It's how Christ describes us. His eternal plan for our lives that we seek to fullfill.<br>
+		Welcome ...<br>
+		I've done just about everything. And I love new experiences. I'm interested in technology and its solutions to our problems. Because of that I've done just about everything.<br>
 		I'm a Jesus freak in the mildest of terms! I love people. I love what I do.<br>
-		<br>Feel free to contact me for projects, prayers, hangouts and any of the like!
+				
+		<br>Feel free to contact me for projects, ministry, hangouts...
 		<br>
 	</p> 
 </div>
@@ -19,19 +21,34 @@ layout: default
 	<h1>About</h1>
 	<div>
 		<p>
-			Click <a href="/origin.html" target="_blank">Origin</a> to find out were I am from.
+			I'm 23. I'm a Mushayakarara. Click <a href="/origin.html" target="_blank">Origin</a> to find out were I am from.
 		</p>
 	</div>
 </div>
 <div id="projects">
 	<h1>Projects</h1>
-	<h3>Done</h3>
 	<p>
 		<ul>
-			<li><a href="#" onClick="alert('you are already there!')">Jekyll website</a></li>
-			<li><a href="#">approvedProspectors.co.zw</a></li>
-			<li><a href="https://www.youtube.com/channel/UCX-McTsh7vF3g9pertE4KIQ" target="_blank">Bitcoin whitepaper in Shona tutorials</a></li>
-			<li><a href="https://github.com/evermoreg/digitalFile" target="_blank">Digital File Encryption</a></li>
+			<li>
+				<a href="#" onClick="alert('you are already there!')">Jekyll website</a>
+				<p class="description">
+					Acknowledgements: <br>
+						<a href="https://jekyllrb.com/" target="_blank">the jekyll people</a><br>
+						<a href="https://codepen.io/simplyhue/pen/pjEYGo" target="_blank">origin page</a>
+				</p>
+			</li>
+			<li>
+				<a href="https://www.youtube.com/channel/UCX-McTsh7vF3g9pertE4KIQ" target="_blank">Bitcoin whitepaper in Shona tutorials</a>
+				<p class="description">
+					I go through the bitcoin whitepaper, giving interpretation in ⚠ShoNglish⚠.
+				</p>
+			</li>
+			<li>
+				<a href="https://github.com/evermoreg/digitalFile" target="_blank">Digital File Encryption</a>
+				<p class="description">
+					A secure communication portal giving using morden encryption methods.
+				</p>
+			</li>
 			<li><a href="https://github.com/tatmush/Youtube-Views-Inflation" target="_blank">Youtube Views Inflation</a></li>
 		</ul>
 	</p>
@@ -39,21 +56,16 @@ layout: default
 	<p>
 		<ul>
 			<li><a href="#">Violent Python 3</a></li>
-		</ul>
-	</p>
-	<h3>Future</h3>
-	<p>
-		<ul>
-			<li><a href="#">Machine Learning</a></li>
-			<li><a href="#">Blockchain </a></li>
+			<li><a href="#">approvedProspectors.co.zw</a></li>
 		</ul>
 	</p>
 </div>
 <div id="whatsHappening">
 	<h1>What's Happening</h1>
-	<div>
+	<div style="position: relative; height: 312px;">
+		<img src="pictures/feli4.jpeg" alt="Feli" class="firstImage">
 		<p class="feliMemorial">
-			<img src="pictures/feli4.jpeg" alt="Feli" class="firstImage">I lost my sister on the 28th of November 2018. One of the first people whom I truly loved. She got hooked up on God for the last few months of her life and that got us connected.<br>She was an amaizing person. A cool and calm personality.😍😍😍😍<br>I fail to articulate the feeling inside of me. Though I miss her. I know she is better off. You will be missed great person.<br>😘Love😍😍😍😍you😘. Our Memorial is <a href="#">here</a>
+			<h6>😭😭28 November 2018😭😭.</h6>Sad, sad day.😓 <br>The life we live is only finite. Love the people you must, tell them you love them. Cherish them...Because you never know if you or they are there tommorrow to tell them. Our Memorial is <a href="/memorial.html">here.</a>
 		</p>
 	</div>	
 </div>

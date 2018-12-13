@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 {% seo %}
   </head>
@@ -15,22 +16,19 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <div class="navBar">
-            <ol>
-              <li><a href="#twitter">Twitter</a></li>
-              <li><a href="#whatsHappening">What's happening</a></li>
-              <li><a href="#projects">Projects</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#home">Home</a></li>
-            </ol>
-          </div>
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-          {% endif %}
-
           <div class="siteTitle">
             <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           </div>
+          <div class="navBar">
+            <ol class="orderedList">
+              <li><a href="#home">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#projects">Projects</a></li>
+              <li><a href="#whatsHappening">What's happening</a></li>
+              <!-- Todo: <li><a href="#twitter">Twitter</a></li> -->
+            </ol>
+          </div>
+          
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
@@ -56,7 +54,7 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>tatmush</p>
+              
       </footer>
     </div>
 
