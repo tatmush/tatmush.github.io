@@ -10,9 +10,8 @@ layout: default
 	<h6>This site is under construction!<br></h6> 
 	<p class="homeParagraph">
 		Welcome ...<br>
-		I've done just about everything. And I love new experiences. I'm interested in technology and its solutions to our problems. Because of that I've done just about everything.<br>
-		I'm a Jesus freak in the mildest of terms! I love people. I love what I do.<br>
-				
+		I've done just about everything. And I love new experiences. I'm interested in technology and it solving problems. Because of that I've done just about everything.<br>
+		<br>I'm a Jesus freak in the mildest of terms! I love people. I love what I do.<br>		
 		<br>Feel free to contact me for projects, ministry, hangouts...
 		<br>
 	</p> 
@@ -40,7 +39,7 @@ layout: default
 			<li>
 				<a href="https://www.youtube.com/channel/UCX-McTsh7vF3g9pertE4KIQ" target="_blank">Bitcoin whitepaper in Shona tutorials</a>
 				<p class="description">
-					I go through the bitcoin whitepaper, giving interpretation in ⚠ShoNglish⚠.
+					I go through the bitcoin whitepaper, giving the interpretation in ⚠ShoNglish⚠.
 				</p>
 			</li>
 			<li>
@@ -65,11 +64,14 @@ layout: default
 	<div style="position: relative; height: 312px;">
 		<img src="pictures/feli4.jpeg" alt="Feli" class="firstImage">
 		<p class="feliMemorial">
-			<h6>😭😭28 November 2018😭😭.</h6>Sad, sad day.😓 <br>The life we live is only finite. Love the people you must, tell them you love them. Cherish them...Because you never know if you or they are there tommorrow to tell them. Our Memorial is <a href="/#">here.</a>
+			<h6>😭😭28 November 2018😭😭.</h6>Sad, sad day.😓 <br>The life we live is only finite. Love the people you must, tell them you love them. Cherish them...Because you never know if you or they are there tommorrow to tell them. Our Memorial is <a href="#">here.</a>
 		</p>
 	</div>	
 </div>
+<!-- 
 <div id="twitter">
 	<h1>Twitter</h1>
 </div>
+
+-->
 
