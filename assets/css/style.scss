@@ -69,3 +69,105 @@ header > div > ol > li {
 	text-align: justify;
 	line-height: 1.8;
 }
+.svg-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: #828282;
+  padding-right: 5px;
+  vertical-align: text-top; 
+}
+
+a {
+  color: #2a7ae2;
+  text-decoration: none; 
+}
+a:visited {
+  color: #1756a9;
+}
+a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+.social-media-list a:hover {
+    text-decoration: none;
+}
+.social-media-list a:hover .username {
+    text-decoration: underline;
+}
+.social-media-list{
+	list-style-type: none;	
+}
+
+footer > div > div > div > ul > li > a{
+	text-decoration: none;
+}
+
+.leftFooter{
+	text-align:left;
+	float:left;
+}
+.rightFooter{
+	float:right;
+	text-align:right;
+}
+.centerFooter{
+	text-align:center;
+}
+.wrapper {
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; 
+}
+@media screen and (max-width: 800px) {
+    .wrapper {
+      max-width: -webkit-calc(800px - (30px));
+      max-width: calc(800px - (30px));
+      padding-right: 15px;
+      padding-left: 15px; 
+    } 
+}
+.wrapper:after, .footer-col-wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footer-col-wrapper {
+  font-size: 15px;
+  color: #828282;
+  margin-left: -15px; 
+}
+.footer-col {
+  float: left;
+  margin-bottom: 15px;
+  padding-left: 15px; }
+
+.footer-col-1 {
+  width: -webkit-calc(30% - (30px / 2));
+  width: calc(25% - (30px / 2)); }
+
+.footer-col-2 {
+  width: -webkit-calc(33% - (30px / 2));
+  width: calc(33% - (30px / 2)); }
+
+.footer-col-3 {
+  width: -webkit-calc(% - (30px / 2));
+  width: calc(% - (30px / 2)); }
+
+@media screen and (max-width: 800px) {
+  .footer-col-1,
+  .footer-col-2 {
+    width: -webkit-calc(29% - (30px / 2));
+    width: calc(29% - (30px / 2)); }
+
+.footer-col-3 {
+    width: -webkit-calc(33% - (30px / 2));
+    width: calc(33% - (30px / 2)); } }
+@media screen and (max-width: 600px) {
+  .footer-col {
+    float: none;
+    width: -webkit-calc(33% - (30px / 2));
+    width: calc(33% - (30px / 2)); } }
