@@ -10,6 +10,7 @@ layout: default
 	<h6>This site is under construction!<br></h6> 
 	<p class="homeParagraph">
 		Welcome ...<br>
+		You will get know more about me here ...<br>
 		I've done just about everything. And I love new experiences. I'm interested in technology and it solving problems. Because of that I've done just about everything.<br>
 		<br>I'm a Jesus freak in the mildest of terms! I love people. I love what I do.<br>		
 		<br>Feel free to contact me for projects, ministry, hangouts...
