@@ -1,12 +1,8 @@
 ---
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <div id="home">
 	<h1>Home</h1>
-	<h6>This site is under construction!<br></h6> 
 	<p class="homeParagraph">
 		Hello friend, hello friend...thats lame<br>
 		What i'm about to tell you is top secret ...<br>
@@ -19,7 +15,7 @@ layout: default
 	<h1>About</h1>
 	<div>
 		<p>
-			I'm 23. I'm a Mushayakarara. Click <a href="origin/origin.html" target="_blank">Origin</a> to find out were I am from.
+			I'm a Mushayakarara. Click <a href="origin/origin.html" target="_blank">Origin</a> to find out were I am from. I'm studying Information and Security at HIT.
 		</p>
 	</div>
 </div>
@@ -29,11 +25,6 @@ layout: default
 		<ul>
 			<li>
 				<a href="#" onClick="alert('you are already there!')">Jekyll website</a>
-				<p class="description">
-					Acknowledgements: <br>
-						<a href="https://jekyllrb.com/" target="_blank">the jekyll people</a><br>
-						<a href="https://codepen.io/simplyhue/pen/pjEYGo" target="_blank">origin page</a>
-				</p>
 			</li>
 			<li>
 				<a href="https://www.youtube.com/channel/UCX-McTsh7vF3g9pertE4KIQ" target="_blank">Bitcoin whitepaper in Shona tutorials</a>
@@ -51,13 +42,7 @@ layout: default
 			<li><a href="www.approvedprospectors.co.zw" target="_blank">approvedprospectors.co.zw</a></li>
 		</ul>
 	</p>
-	<h3>Current</h3>
-	<p>
-		<ul>
-			<li><a href="https://github.com/tatmush/violentPython3" target="_blank">Violent Python 3</a></li>
-		</ul>
-	</p>
-</div>
+
 <div id="whatsHappening">
 	<h1>What's Happening</h1>
 	<div style="position: relative; height: 312px;">
