@@ -1,7 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 
 layout: default
 ---
@@ -9,12 +7,9 @@ layout: default
 	<h1>Home</h1>
 	<h6>This site is under construction!<br></h6> 
 	<p class="homeParagraph">
-		Welcome ...<br>
-		You will get know more about me here ...<br>
-		I've done just about everything. And I love new experiences. I'm interested in technology and it solving problems. Because of that, I've done just about everything.<br>
-		<br>I'm a Jesus freak in the mildest of terms! I love people. I love what I do.<br>		
-		<br>Feel free to contact me for projects, ministry, hangouts...
-		<br>
+		Hello friend, hello friend...thats lame<br>
+		What i'm about to tell you is top secret ...<br>
+		<br>I'm a Jesus person! I love people. I love what I do.<br>		
 	</p> 
 </div>
 <div id="about">
