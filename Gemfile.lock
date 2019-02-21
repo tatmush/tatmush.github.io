@@ -36,6 +36,7 @@ GEM
     jekyll-theme-slate (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
+    jekyll-twitter-plugin (2.0.0)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -71,8 +72,9 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   jekyll-theme-slate
+  jekyll-twitter-plugin
   minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
-   1.17.1
+   2.0.1
