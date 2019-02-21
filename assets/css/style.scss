@@ -35,6 +35,14 @@ header > div > ol > li {
 
 .memorialImage{
 	border-radius: 50%;
+  max-width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.active{
+  background-color: #fff !important;
 }
 .mainImage{
 	border-radius: 10%;
@@ -171,3 +179,10 @@ footer > div > div > div > ul > li > a{
     float: none;
     width: -webkit-calc(33% - (30px / 2));
     width: calc(33% - (30px / 2)); } }
+
+.carousel-control-next {
+  background-color: #000;
+}
+.carousel-control-prev{
+  background-color: #000;
+}

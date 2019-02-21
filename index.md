@@ -39,19 +39,19 @@ layout: default
 				</p>
 			</li>
 			<li>
-				<a href="https://github.com/evermoreg/digitalFile" target="_blank">Digital File Encryption</a>
+				<a href="https://github.com/evermoreg/digitalFile" target="_blank">Hybrid enc</a>
 				<p class="description">
-					A secure communication portal giving using morden encryption methods.
+					A secure communication portal giving using morden encryption methods(hybrid encryption) using javascript on the clients browser.
 				</p>
 			</li>
 			<li><a href="https://github.com/tatmush/Youtube-Views-Inflation" target="_blank">Youtube Views Inflation</a></li>
+			<li><a href="www.approvedprospectors.co.zw" target="_blank">approvedprospectors.co.zw</a></li>
 		</ul>
 	</p>
 	<h3>Current</h3>
 	<p>
 		<ul>
-			<li><a href="#">Violent Python 3</a></li>
-			<li><a href="#">approvedprospectors.co.zw</a></li>
+			<li><a href="https://github.com/tatmush/violentPython3" target="_blank">Violent Python 3</a></li>
 		</ul>
 	</p>
 </div>
@@ -60,7 +60,7 @@ layout: default
 	<div style="position: relative; height: 312px;">
 		<img src="pictures/feli4.jpeg" alt="Feli" class="firstImage">
 		<p class="feliMemorial">
-			<h6>😭😭28 November 2018😭😭.</h6>Sad, sad day.😓 <br>The life we live is only finite. Love the people you must, tell them you love them. Cherish them...Because you never know if you or they are there tommorrow to tell them. Our Memorial is <a href="#">here.</a>
+			<h6>😭😭28 November 2018😭😭.</h6>Sad, sad day.😓 <br>The life we live is only finite. Love the people you must, tell them you love them. Cherish them...Because you never know if you or they are there tommorrow to tell them. Our Memorial is <a href="/memorial.html">here.</a>
 		</p>
 	</div>	
 </div>
