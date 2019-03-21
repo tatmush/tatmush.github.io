@@ -38,6 +38,12 @@ layout: default
 					A secure communication portal giving using morden encryption methods(hybrid encryption) using javascript on the clients browser.
 				</p>
 			</li>
+			<li>
+				<a href="https://github.com/tatmush/Saturday-THORN-Dev-Rank" target="_blank">Dev Rank</a>
+				<p class="description">
+					Read my blog called The hackerthon culture in Zimbabwe to find out about the origins of the project.
+				</p>
+			</li>
 			<li><a href="https://github.com/tatmush/Youtube-Views-Inflation" target="_blank">Youtube Views Inflation</a></li>
 			<li><a href="www.approvedprospectors.co.zw" target="_blank">approvedprospectors.co.zw</a></li>
 		</ul>
