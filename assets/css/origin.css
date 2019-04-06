@@ -153,20 +153,19 @@ right connector from last child*/
 }
 /*Thats all. I hope you enjoyed it.
 Thanks :)*//* Tooltip container */
-.tooltipNyabasa{
+.tooltip{
 	position: relative;
 	display: inline-block;
-	border-bottom: 1px dotted black;
 }
 
 /* Tooltip text */
-.tooltipNyabasa .tooltiptextNyabasa {
+.tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
-  background-color: black;
+  width: 300px;
+  background-color: #837f7f;
   color: #fff;
   text-align: center;
-  padding: 5px 0;
+  padding: 5px;
   border-radius: 6px;
   /* Position the tooltip text - see examples below! */
   position: absolute;
@@ -174,7 +173,7 @@ Thanks :)*//* Tooltip container */
  }
 
  /* Show the tooltip text when you mouse over the tooltip container */
-.tooltipNyabasa:hover .tooltiptextNyabasa {
+.tooltip:hover .tooltiptext {
   visibility: visible;
 }
 
