@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Satoshi's Treasure Hunt Keys"
-date:   2019-03-15 00:00:00 +0200
-categories: Saturday-THORNS
+date:   2019-04-29 00:00:00 +0200
+categories: Satoshi's Treasure Hunt
 tags: bitcoin,satoshi's treasure hunt, 
 ---
 <h1>Satoshi's Treasure Hunt</h1>
